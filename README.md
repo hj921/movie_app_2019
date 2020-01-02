@@ -10,3 +10,7 @@ Namad Academy('https://academy.nomadcoders.co/courses/216871/lectures/10881287')
 - map(2019.12.30)
 - propTypes(2019.12.30)
 - state(2019.12.30) => setState호출 - React: render function호출(with new state)
+- Component Life Cycle(2020.01.02)
+    - Mounting => constructor, render, componentDidMount
+    - Updating => componentDidUpdate
+    - Unmounting => componentWillUnmount
